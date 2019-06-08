@@ -1,0 +1,31 @@
+
+
+body {
+    background-image: linear-gradient(#5bbdd6, #FFFFFF 40%, #265473);
+  }
+  
+  h1 {
+    font-weight: normal;
+    color: #266182;
+    text-shadow: 1px 2px black;
+    font-family: 'Archivo Black', sans-serif;
+  }
+  
+  .container {
+    height: 98vh;
+    max-width: 1000px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+  }
+  
+  .div1 {
+    width: 100%;
+    text-align: center;
+    font-size: 4vw;
+    line-height: 0.6em;
+  }
+  
